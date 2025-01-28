@@ -1,2 +1,1 @@
-welcome to my git repository!
-here you will find scripts to aid in determining nutrient limitation
+workshop
